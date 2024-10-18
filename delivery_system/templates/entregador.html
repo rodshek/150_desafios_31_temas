@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciar Entregadores</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Entregadores</h1>
+    <ul>
+        {% for entregador in entregadores %}
+        <li>{{ entregador.nome }} - Status: {{ entregador.status }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

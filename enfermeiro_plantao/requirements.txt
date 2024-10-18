@@ -1,0 +1,5 @@
+pillow == 9.2.0         # Manipulação de imagens (logo, ícones, etc.)
+tk == 0.1.0             # Interface gráfica (Tkinter)
+pandas == 1.5.3         # Manipulação de dados e criação de relatórios
+openpyxl == 3.0.10      # Manipulação de arquivos Excel
+sqlite3 == 2.6.0        # Banco de dados para armazenar informações

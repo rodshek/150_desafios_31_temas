@@ -1,0 +1,282 @@
+Descrição de exemplos de desafios
+
+---
+
+# **Tema 1: Desenvolvimento Humano**
+1. ** Desafio 1**: Crie um programa que forneça dicas personalizadas de crescimento pessoal com base em respostas do usuário sobre seus objetivos.
+2. ** Desafio 2**: Desenvolva um simulador de planejamento de metas que ajude o usuário a definir e acompanhar suas metas ao longo do ano.
+3. ** Desafio 3**: Crie um programa que simule uma sessão de coaching, usando perguntas interativas para guiar o usuário a reflexões sobre sua carreira e vida pessoal.
+4. ** Desafio 4**: Programe um chatbot que dê conselhos sobre equilíbrio entre trabalho e vida pessoal, adaptando as respostas com base em perguntas pré-definidas.
+5. ** Desafio 5**: Crie um gerador de citações motivacionais que exibe uma frase inspiradora diferente toda vez que o programa é executado.
+
+---
+
+# **Tema 2: Data Science**
+1. ** Desafio 1**: Crie um programa que leia um conjunto de dados CSV e calcule estatísticas básicas(média, mediana, moda).
+2. ** Desafio 2**: Desenvolva um programa que execute análise de regressão linear em um conjunto de dados e exiba os resultados em um gráfico.
+3. ** Desafio 3**: Programe uma visualização de dados em Python utilizando a biblioteca Seaborn para mostrar correlações entre variáveis.
+4. ** Desafio 4**: Implemente uma pipeline de pré-processamento de dados que faça limpeza, normalização e remoção de outliers.
+5. ** Desafio 5**: Crie uma aplicação que implemente K-Means clustering e visualize os clusters com Plotly.
+
+---
+
+# **Tema 3: Machine Learning**
+1. ** Desafio 1**: Desenvolva um modelo de classificação utilizando Scikit-learn com o algoritmo de K-Nearest Neighbors(KNN).
+2. ** Desafio 2**: Crie um script que implemente uma rede neural simples utilizando Keras e TensorFlow para classificar imagens de dígitos.
+3. ** Desafio 3**: Implemente um modelo de regressão linear multivariada para prever preços de imóveis com base em um conjunto de dados.
+4. ** Desafio 4**: Desenvolva um algoritmo de árvore de decisão para classificação de tipos de flores(conjunto de dados Iris).
+5. ** Desafio 5**: Treine um modelo de Random Forest para prever se um cliente de um banco vai tomar um empréstimo ou não.
+
+---
+
+# **Tema 4: Visualização de Dados e Análise de Dados**
+1. ** Desafio 1**: Crie um gráfico de barras usando Matplotlib que mostre a quantidade de vendas por categoria de produto em uma loja virtual.
+2. ** Desafio 2**: Programe uma visualização de distribuição de dados com histograma utilizando Seaborn para dados de altura de uma população.
+3. ** Desafio 3**: Desenvolva um dashboard interativo com Plotly Dash para exibir diferentes métricas de vendas de uma empresa.
+4. ** Desafio 4**: Implemente um heatmap para visualizar correlações entre variáveis em um conjunto de dados de economia.
+5. ** Desafio 5**: Programe um gráfico de dispersão que mostre a relação entre salário e idade de trabalhadores, utilizando Matplotlib.
+
+---
+
+# **Tema 5: Desenvolvimento Web**
+1. ** Desafio 1**: Crie uma aplicação web simples em Flask que permita ao usuário fazer login e visualizar um perfil básico.
+2. ** Desafio 2**: Desenvolva um CRUD(Create, Read, Update, Delete) utilizando Flask para gerenciar um banco de dados de produtos.
+3. ** Desafio 3**: Implemente um sistema de registro de usuários com Flask, incluindo autenticação e recuperação de senha.
+4. ** Desafio 4**: Programe uma API RESTful com Flask que forneça dados JSON sobre informações de produtos de uma loja virtual.
+5. ** Desafio 5**: Crie um sistema de upload de arquivos utilizando Flask, permitindo que os usuários façam upload e download de documentos.
+
+---
+
+# **Tema 6: Automação de Scripts**
+1. ** Desafio 1**: Crie um script que automatize o backup de arquivos importantes de uma pasta específica, compactando-os em um arquivo ZIP.
+2. ** Desafio 2**: Desenvolva um script para automatizar o envio de e-mails com relatórios semanais utilizando a biblioteca `smtplib`.
+3. ** Desafio 3**: Programe um script que baixe automaticamente um conjunto de arquivos de uma página da web usando `requests` e `BeautifulSoup`.
+4. ** Desafio 4**: Implemente um script que faça o download de um arquivo de banco de dados e atualize uma planilha Excel automaticamente.
+5. ** Desafio 5**: Desenvolva um script que gere relatórios diários de desempenho de vendas a partir de dados de um banco de dados.
+
+---
+
+# **Tema 7: Leitura de Dados**
+1. ** Desafio 1**: Crie um script que leia arquivos CSV de um diretório e exiba as primeiras 10 linhas de cada arquivo.
+2. ** Desafio 2**: Desenvolva um programa que leia dados de um banco de dados SQLite e exiba uma tabela formatada com os resultados.
+3. ** Desafio 3**: Implemente um leitor de dados XML que extraia informações e as exiba em um formato de tabela.
+4. ** Desafio 4**: Programe um script que leia dados JSON de uma API e armazene-os em um banco de dados local.
+5. ** Desafio 5**: Crie um script que leia dados de uma planilha Excel e calcule estatísticas básicas.
+
+---
+
+# **Tema 8: Escrita de Dados**
+1. ** Desafio 1**: Crie um script que escreva dados de uma lista de dicionários para um arquivo CSV.
+2. ** Desafio 2**: Desenvolva um script que atualize uma tabela de banco de dados com novos dados lidos de um arquivo CSV.
+3. ** Desafio 3**: Programe um script que escreva dados para uma planilha Excel, formatando as células com base nos valores.
+4. ** Desafio 4**: Crie um programa que salve dados JSON obtidos de uma API em um arquivo JSON local.
+5. ** Desafio 5**: Desenvolva um script que armazene dados de uma simulação em um arquivo de log.
+
+---
+
+# **Tema 9: Automação Comercial em Restaurantes**
+1. ** Desafio 1**: Crie um sistema simples para registrar pedidos em um restaurante, salvando os dados em um arquivo CSV.
+2. ** Desafio 2**: Desenvolva um programa que calcule automaticamente o valor total de um pedido com base nos itens e quantidades solicitadas.
+3. ** Desafio 3**: Programe um sistema que mostre o tempo médio de espera por pedido, com base nos dados de um arquivo de histórico.
+4. ** Desafio 4**: Crie uma aplicação para gerar relatórios de vendas diárias e exibi-los em uma interface gráfica.
+5. ** Desafio 5**: Implemente um sistema de controle de estoque que reduza automaticamente os ingredientes disponíveis ao registrar um pedido.
+
+---
+
+# **Tema 10: E-commerce**
+1. ** Desafio 1**: Crie um programa que simule um carrinho de compras, permitindo adicionar e remover itens.
+2. ** Desafio 2**: Desenvolva um sistema de recomendação de produtos com base no histórico de compras de um cliente.
+3. ** Desafio 3**: Programe uma API para consulta de preços de produtos, fornecendo informações em formato JSON.
+4. ** Desafio 4**: Crie um sistema que calcule o custo de envio com base no peso dos produtos e na distância de entrega.
+5. ** Desafio 5**: Implemente um gerador de cupons de desconto para compras com base em determinadas condições(como valor mínimo de compra).
+
+---
+
+# **Tema 11: Automação Comercial para Lojas de Móveis**
+1. ** Desafio 1**: Crie um sistema de gestão de vendas de móveis, que registre produtos vendidos e atualize o estoque.
+2. ** Desafio 2**: Desenvolva uma aplicação que calcule o volume de móveis vendidos e ofereça relatórios gráficos das vendas mensais.
+3. ** Desafio 3**: Programe um sistema que permita ao cliente visualizar móveis disponíveis com base em filtros de preço e categoria.
+4. ** Desafio 4**: Implemente um gerador de notas fiscais em PDF para cada venda realizada.
+5. ** Desafio 5**: Crie uma aplicação que simule o parcelamento de compras e exiba os valores das prestações.
+
+---
+
+# **Tema 12: Automação Comercial em Mercados Pequenos**
+1. ** Desafio 1**: Desenvolva um sistema de caixa para um mercado, que registre as vendas de produtos e calcule o valor total.
+2. ** Desafio 2**: Programe um sistema de controle de validade para produtos perecíveis, que emita alertas quando a data de validade estiver próxima.
+3. ** Desafio 3**: Implemente um sistema de controle de estoque que informe quando os produtos estão próximos de se esgotar.
+4. ** Desafio 4**: Crie um gerador de relatórios semanais de vendas e visualize-os em gráficos utilizando Matplotlib.
+5. ** Desafio 5**: Desenvolva uma ferramenta de cadastro de clientes e acompanhamento de compras, permitindo promoções personalizadas.
+
+---
+
+# **Tema 13: Automação Comercial em Loja de Roupas**
+1. ** Desafio 1**: Crie um programa para registrar a venda de roupas e gerar automaticamente recibos para os clientes.
+2. ** Desafio 2**: Desenvolva um sistema que permita cadastrar novos produtos(roupas), associando preço e quantidade em estoque.
+3. ** Desafio 3**: Programe um sistema de descontos automáticos com base em promoções sazonais(ex: Black Friday).
+4. ** Desafio 4**: Implemente um gerador de relatórios de vendas, filtrando por categorias de roupas.
+5. ** Desafio 5**: Crie uma aplicação que permita o cadastro de clientes e associe o histórico de compras a cada cliente.
+
+---
+
+# **Tema 14: Rede Social**
+1. ** Desafio 1**: Crie uma aplicação que permita o cadastro de usuários, com armazenamento dos dados em um banco de dados.
+2. ** Desafio 2**: Desenvolva um sistema que permita a postagem de mensagens e a visualização de posts de outros usuários.
+3. ** Desafio 3**: Programe um sistema de curtidas e comentários em posts, armazenando essas interações em um banco de dados.
+4. ** Desafio 4**: Implemente um feed de notícias que exiba as postagens mais recentes de outros usuários.
+5. ** Desafio 5**: Crie uma funcionalidade de busca de amigos com base no nome ou interesse dos usuários.
+
+---
+
+# **Tema 15: Criação de Redes Sociais**
+1. ** Desafio 1**: Desenvolva um sistema de cadastro de usuários e login, com autenticação por e-mail.
+2. ** Desafio 2**: Crie uma página de perfil de usuário que exiba as informações pessoais e postagens feitas.
+3. ** Desafio 3**: Implemente um sistema de seguidores, permitindo que os usuários sigam e vejam postagens de outras pessoas.
+4. ** Desafio 4**: Programe um sistema de envio de mensagens privadas entre usuários, utilizando banco de dados para armazenamento.
+5. ** Desafio 5**: Desenvolva um sistema de notificações que informe o usuário sobre novas interações(curtidas, seguidores, mensagens).
+
+---
+
+# **Tema 16: Hospedagem de Vídeos**
+1. ** Desafio 1**: Crie uma aplicação que permita ao usuário fazer upload de vídeos para a plataforma.
+2. ** Desafio 2**: Desenvolva um sistema de comentários e curtidas em vídeos, com armazenamento dos dados em um banco de dados.
+3. ** Desafio 3**: Implemente um sistema de categorização de vídeos, permitindo que os usuários filtrem por categorias.
+4. ** Desafio 4**: Programe uma funcionalidade que sugira vídeos com base no histórico de visualizações do usuário.
+5. ** Desafio 5**: Crie uma página de visualização de vídeo com recomendações de vídeos relacionados.
+
+---
+
+# **Tema 17: Desenvolvimento Sustentável**
+1. ** Desafio 1**: Crie um simulador que mostre o impacto ambiental de diferentes hábitos de consumo(água, energia, transporte).
+2. ** Desafio 2**: Desenvolva um programa que permita calcular a pegada de carbono de um usuário com base nas suas atividades diárias.
+3. ** Desafio 3**: Programe uma aplicação que sugira ações sustentáveis com base no perfil de consumo do usuário.
+4. ** Desafio 4**: Implemente um sistema que rastreie o uso de energia em tempo real e sugira maneiras de reduzi-lo.
+5. ** Desafio 5**: Crie um gerador de relatórios sobre o impacto ambiental ao longo de um mês, baseado em atividades inseridas pelo usuário.
+
+---
+
+# **Tema 18: Educação e Treinamento Online**
+1. ** Desafio 1**: Desenvolva uma plataforma simples de ensino à distância que permita criar cursos e cadastrar alunos.
+2. ** Desafio 2**: Crie uma funcionalidade que permita o envio de exercícios e a correção automática.
+3. ** Desafio 3**: Implemente um sistema de pontuação que avalie o progresso do aluno com base nas atividades concluídas.
+4. ** Desafio 4**: Programe um sistema de videoaulas, com um player embutido na plataforma e controle de progresso.
+5. ** Desafio 5**: Crie um fórum de discussão dentro da plataforma onde os alunos possam interagir e tirar dúvidas.
+
+---
+
+# **Tema 19: Segurança da Informação**
+1. ** Desafio 1**: Crie um sistema de autenticação simples que use hashing para armazenar senhas de forma segura.
+2. ** Desafio 2**: Desenvolva uma aplicação que detecte possíveis ataques de força bruta analisando tentativas de login falhas.
+3. ** Desafio 3**: Implemente um gerador de senhas seguras e armazene essas senhas em um arquivo criptografado.
+4. ** Desafio 4**: Programe um sistema de criptografia simétrica para envio e recebimento de mensagens seguras.
+5. ** Desafio 5**: Crie um programa que verifique vulnerabilidades comuns em sites, como falhas de SQL Injection e Cross-Site Scripting(XSS).
+
+---
+
+# **Tema 20: Automação de Marketing**
+1. ** Desafio 1**: Desenvolva uma ferramenta para programar o envio de e-mails de marketing em datas e horários pré-definidos.
+2. ** Desafio 2**: Crie um sistema que gere relatórios de abertura e cliques em campanhas de e-mail marketing.
+3. ** Desafio 3**: Implemente uma ferramenta para segmentação de leads, dividindo-os por características como idade ou região.
+4. ** Desafio 4**: Programe uma aplicação que personalize automaticamente o conteúdo do e-mail com base nos dados do destinatário.
+5. ** Desafio 5**: Crie um sistema que sugira novos segmentos de marketing com base no comportamento dos usuários.
+
+---
+
+# **Tema 21: Análise de Big Data**
+1. ** Desafio 1**: Desenvolva uma aplicação que processe grandes volumes de dados, utilizando a biblioteca `pandas` para realizar agregações e análises.
+2. ** Desafio 2**: Crie um sistema que visualize gráficos de grandes conjuntos de dados, utilizando `matplotlib` e `seaborn`.
+3. ** Desafio 3**: Programe uma solução que utilize `spark` para processamento distribuído de dados massivos.
+4. ** Desafio 4**: Implemente um sistema de análise preditiva que utilize Machine Learning para identificar tendências em conjuntos de big data.
+5. ** Desafio 5**: Crie uma aplicação que conecte a uma base de dados Hadoop e realize consultas em tempo real.
+
+---
+
+# **Tema 22: Realidade Aumentada e Realidade Virtual**
+1. ** Desafio 1**: Crie uma aplicação de Realidade Aumentada(AR) que utilize a câmera do celular para sobrepor imagens virtuais no ambiente real.
+2. ** Desafio 2**: Desenvolva um simulador de Realidade Virtual(VR) que permita ao usuário interagir com um ambiente 3D.
+3. ** Desafio 3**: Programe uma ferramenta de AR para visualizar modelos 3D de produtos, permitindo ao usuário ver o produto em sua casa.
+4. ** Desafio 4**: Implemente uma aplicação de VR para treinamento, onde o usuário deve executar tarefas simuladas dentro de um ambiente virtual.
+5. ** Desafio 5**: Crie um sistema de AR que permita sobrepor informações contextuais ao ambiente(ex: detalhes de um monumento histórico quando visto pela câmera).
+
+---
+
+# **Tema 23: Computação em Nuvem**
+1. ** Desafio 1**: Desenvolva um sistema que armazene e recupere arquivos de um serviço de nuvem(como AWS S3).
+2. ** Desafio 2**: Crie uma aplicação que faça deploy automático de um projeto para um serviço de nuvem, como Heroku ou AWS.
+3. ** Desafio 3**: Programe uma ferramenta que escale automaticamente uma aplicação na nuvem com base no uso de CPU e memória.
+4. ** Desafio 4**: Implemente uma solução que faça backup automático de dados em um serviço de armazenamento em nuvem.
+5. ** Desafio 5**: Crie um sistema que monitore o tempo de atividade de um servidor em nuvem e envie alertas em caso de downtime.
+
+---
+
+# **Tema 24: Internet das Coisas (IoT)**
+1. ** Desafio 1**: Crie um sistema IoT simples que controle remotamente um dispositivo(como ligar/desligar uma lâmpada) via uma interface web.
+2. ** Desafio 2**: Desenvolva um programa que monitore sensores de temperatura e umidade e envie alertas se os valores ultrapassarem limites pré-definidos.
+3. ** Desafio 3**: Implemente uma solução para coletar dados de sensores IoT e armazená-los em um banco de dados para análise posterior.
+4. ** Desafio 4**: Programe um sistema de automação residencial que ajuste automaticamente a temperatura do ar condicionado com base nos dados dos sensores.
+5. ** Desafio 5**: Crie um aplicativo que permita controlar dispositivos IoT por comandos de voz, utilizando serviços de reconhecimento de fala.
+
+---
+
+# **Tema 25: Desenvolvimento de APIs em Python**
+1. ** Desafio 1**: Desenvolva uma API simples que permita a criação e consulta de dados de usuários em um banco de dados.
+2. ** Desafio 2**: Programe uma API que forneça dados de produtos de um e-commerce e permita consultas por nome ou categoria.
+3. ** Desafio 3**: Crie uma API de autenticação de usuários que utilize tokens JWT para validar sessões.
+4. ** Desafio 4**: Implemente uma API REST que permita o upload de arquivos e os armazene em uma estrutura de pastas organizada.
+5. ** Desafio 5**: Desenvolva uma API que integre com um serviço externo(como uma API de clima) e forneça esses dados aos usuários.
+
+---
+
+# **Tema 26: Testes e Debugging em Python**
+1. ** Desafio 1**: Crie um conjunto de testes unitários utilizando `unittest` para verificar a corretude de funções matemáticas simples.
+2. ** Desafio 2**: Desenvolva uma suíte de testes para um sistema de cadastro de usuários, verificando as validações de entrada.
+3. ** Desafio 3**: Programe testes automatizados utilizando a biblioteca `pytest` para garantir a cobertura de código em um projeto Python.
+4. ** Desafio 4**: Implemente um sistema de logging que registre erros e eventos importantes em um arquivo de log.
+5. ** Desafio 5**: Crie uma aplicação que, ao detectar um erro, gere automaticamente um relatório de erro detalhado com o traceback.
+
+---
+
+# **Tema 27: Programação Paralela e Concorrente em Python**
+1. ** Desafio 1**: Desenvolva uma aplicação que utilize múltiplas threads para executar tarefas em paralelo, como baixar arquivos simultaneamente.
+2. ** Desafio 2**: Crie um sistema que processe dados em paralelo utilizando a biblioteca `multiprocessing`.
+3. ** Desafio 3**: Implemente um programa que use `asyncio` para realizar tarefas assíncronas, como acessar várias APIs de forma concorrente.
+4. ** Desafio 4**: Programe uma aplicação que calcule grandes volumes de dados em paralelo e retorne o resultado mais rapidamente.
+5. ** Desafio 5**: Desenvolva uma ferramenta que divida o processamento de imagens entre múltiplas threads para aumentar a eficiência.
+
+---
+
+# **Tema 28: Implementação de Algoritmos de Machine Learning em Python**
+1. ** Desafio 1**: Crie um algoritmo de regressão linear do zero e aplique-o em um conjunto de dados simples.
+2. ** Desafio 2**: Desenvolva um classificador de k-Nearest Neighbors(k-NN) a partir de um conjunto de dados e avalie a precisão do modelo.
+3. ** Desafio 3**: Programe uma rede neural básica utilizando `TensorFlow` ou `PyTorch` para resolver um problema de classificação de imagens.
+4. ** Desafio 4**: Implemente um algoritmo de clustering k-means e aplique-o a um conjunto de dados para encontrar agrupamentos naturais.
+5. ** Desafio 5**: Crie um modelo de árvore de decisão para prever a categoria de um dado conjunto de exemplos e visualize a árvore.
+
+---
+
+# **Tema 29: Processamento de Dados e Análise com Python**
+1. ** Desafio 1**: Desenvolva um sistema que leia dados de um arquivo CSV e realize análise estatística básica com `pandas`.
+2. ** Desafio 2**: Crie uma aplicação que processe grandes volumes de dados e gere relatórios visuais utilizando `matplotlib` e `seaborn`.
+3. ** Desafio 3**: Programe uma ferramenta que limpe e normalize dados de entrada, preparando-os para uma análise mais avançada.
+4. ** Desafio 4**: Implemente uma solução para detectar outliers em um conjunto de dados utilizando métodos estatísticos.
+5. ** Desafio 5**: Crie um sistema que extraia dados de APIs e os insira em um banco de dados para posterior análise.
+
+---
+
+# **Tema 30: Automatização de Tarefas e Web Scraping em Python**
+1. ** Desafio 1**: Desenvolva um script para automatizar o envio de e-mails com relatórios diários de desempenho.
+2. ** Desafio 2**: Crie um web scraper que extraia dados de um site de notícias e salve as manchetes em um arquivo CSV.
+3. ** Desafio 3**: Programe uma ferramenta que monitore o preço de produtos em e-commerces e envie alertas quando o preço cair abaixo de um valor definido.
+4. ** Desafio 4**: Implemente um sistema que faça o download de arquivos de um site automaticamente, verificando regularmente por novas atualizações.
+5. ** Desafio 5**: Crie uma aplicação que automatize o preenchimento de formulários em um site e envie os dados inseridos para um banco de dados.
+
+---
+
+# **Tema 31: Desenvolvimento de Jogos e Simulações em Python**
+1. ** Desafio 1**: Crie um jogo simples de plataforma usando a biblioteca `Pygame`, onde o jogador deve pular obstáculos para chegar ao final do nível.
+2. ** Desafio 2**: Desenvolva um simulador de física que modele o movimento de objetos em queda livre, levando em conta a gravidade e colisões com o chão.
+3. ** Desafio 3**: Programe um jogo de adivinhação, onde o jogador tem que adivinhar um número gerado aleatoriamente em um intervalo de tentativas limitadas.
+4. ** Desafio 4**: Implemente um jogo de "pedra, papel e tesoura" contra o computador, com uma interface gráfica para o usuário escolher suas jogadas.
+5. ** Desafio 5**: Crie um simulador de batalha espacial em 2D usando `Pygame`, onde o jogador controla uma nave e deve destruir inimigos enquanto desvia de asteroides.
+
+---

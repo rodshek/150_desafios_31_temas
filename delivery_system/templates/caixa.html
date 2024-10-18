@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caixa</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Caixa - Faturar Pedidos</h1>
+    <ul>
+        {% for pedido in pedidos %}
+        <li>{{ pedido.cliente }} - {{ pedido.produto }} ({{ pedido.quantidade }} unidades)
+            <form method="POST" action="/caixa/{{ pedido.id }}/faturar">
+                <input type="submit" value="Faturar Pedido">
+            </form>
+        </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

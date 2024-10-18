@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurante - Home</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Sistema de Restaurante</h1>
+    <h2>Estoque Atual:</h2>
+    <ul>
+        {% for produto in estoque %}
+        <li>{{ produto.nome }} - {{ produto.quantidade }} unidades</li>
+        {% endfor %}
+    </ul>
+    <a href="/pedido">Fazer Pedido</a> |
+    <a href="/cozinha">Cozinha</a> |
+    <a href="/estoque">Gerenciar Estoque</a> |
+    <a href="/caixa">Caixa</a> |
+    <a href="/relatorios">Relatórios</a> |
+    <a href="/entregador">Gerenciar Entregadores</a>
+</body>
+</html>

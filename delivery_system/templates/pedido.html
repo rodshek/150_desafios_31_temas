@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fazer Pedido</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Novo Pedido</h1>
+    <form method="POST">
+        Cliente: <input type="text" name="cliente" required><br><br>
+        Produto:
+        <select name="produto_id">
+            {% for produto in produtos %}
+            <option value="{{ produto.id }}">{{ produto.nome }} - R$ {{ produto.preco }}</option>
+            {% endfor %}
+        </select><br><br>
+        Quantidade: <input type="number" name="quantidade" min="1" required><br><br>
+        <input type="submit" value="Enviar Pedido">
+    </form>
+</body>
+</html>
